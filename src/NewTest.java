@@ -32,5 +32,10 @@ public class NewTest {
 	  
 	  drivers.quit();
   }
-  
+  @Test()
+  public void testmethod(){
+	  
+	  System.out.println("This is Test Method");
+	  
+  }
 }
