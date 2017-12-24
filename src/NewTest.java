@@ -35,7 +35,7 @@ public class NewTest {
   @Test()
   public void testmethod(){
 	  
-	  System.out.println("This is Test Method");
+	  System.out.println("This is Test Method 2");
 	  
   }
 }
